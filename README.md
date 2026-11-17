@@ -1,6 +1,7 @@
 # IT102-FINALPROJECT-AVILA 
 
-##Developers
+# Developers
 
-**Niel Ryan C. Avila**
+**Niel Ryan C. Avila**/
+**Nathaniel Abapo**/
 **BSIT-1**
